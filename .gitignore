@@ -1,0 +1,6 @@
+camera
+lab2
+lab3
+*.o
+Lab3/video_faces/*.jpg
+*.avi
